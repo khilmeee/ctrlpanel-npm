@@ -20,7 +20,8 @@ const config = {
     api: {
         key: 'your-api-key',
         location: 'api'
-    }
+    },
+    userAgent: 'your agentt' // opsional
 };
 
 const client = new Ctrlpanel(config);
@@ -84,4 +85,3 @@ changeRole(userId: string, role: string, email: string, name: string): Promise<U
 ```
 
 Mengubah role pengguna di ctrlpanelmu.
-```
