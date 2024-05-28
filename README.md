@@ -1,6 +1,3 @@
-Tentu, berikut adalah dokumen dalam format markdown yang telah disesuaikan:
-
-```markdown
 # CtrlPanel NPM Package
 
 CtrlPanel adalah sebuah npm package yang menyediakan koneksi dengan API CtrlPanel untuk mengelola pengguna, server, dan notifikasi. Paket ini dikhususkan untuk penggunaan dengan platform Caligo.asia. Namun, kamu juga dapat memodifikasi kode untuk digunakan dengan sistem bawaan ctrlpanel.gg yang sesuai dengan kebutuhanmu.

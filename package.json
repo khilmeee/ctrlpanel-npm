@@ -1,6 +1,6 @@
 {
   "name": "@miwone/ctrlpanel",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "api wrapper ctrlpanel.gg",
   "main": "index.ts",
   "scripts": {
@@ -10,6 +10,9 @@
     "ctrlpanel",
     "caligo"
   ],
+  "repository": {
+    "url": "https://github.com/khilmeee/ctrlpanel-npm"
+  },
   "author": "khilmeee",
   "license": "ISC",
   "dependencies": {
