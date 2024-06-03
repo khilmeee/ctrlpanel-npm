@@ -120,6 +120,18 @@ class Ctrlpanel {
             throw error;
         }
     }
+
+    public async activityLog(user_id: string, description: string, event: string) {
+        try {
+            const result = await this.axiosInstance.post(`/activity-logs`, {
+                user_id,description,event
+            });
+            return result.data;
+        } catch (error) {
+            // Handle error
+            throw error;
+        }
+    }
 }
 
 export default Ctrlpanel;

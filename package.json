@@ -1,6 +1,6 @@
 {
   "name": "@miwone/ctrlpanel",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "api wrapper ctrlpanel.gg",
   "main": "index.ts",
   "scripts": {
